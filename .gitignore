@@ -1,0 +1,6 @@
+.env
+.env.*
+_site/
+.jekyll-cache/
+.DS_Store
+private/
